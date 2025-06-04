@@ -1,3 +1,3 @@
-### Sistema Intermediario - Exchange x Usuario
+### Sistema de Intermediação - Exchange x Usuario
 
 #
